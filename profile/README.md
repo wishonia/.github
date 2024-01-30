@@ -1,5 +1,9 @@
 # Wishonia
 
+## Contact
+- Mike Sinn - m@crowdsourcingcures.org
+- Nikhil Yadala - n@healome.one
+
 ## Projects
 - [FDAi](https://github.com/wishonia/FDAi) - Discovering the positive and negative effects of every food and drug in the world!
 - [Digital Twin Safe](https://github.com/wishonia/digital-twin-safe) - A safe place to store all your data and train your digital twin AI model.
