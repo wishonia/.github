@@ -1,8 +1,13 @@
-# Wishonia
+# 💫 Wishonia 💫
 
-## Contact
-- Mike Sinn - m@crowdsourcingcures.org
-- Nikhil Yadala - n@healome.one
+A virtual world of 8 billion digital twin AI agents working to maximize universal wish fulfillment. 
+
+## 💬 Contact Us 
+Please don't hesitate to contact us with any questions, suggestions or criticisms you can think of!
+
+Just create an [issue](https://github.com/wishonia/.github/issues) 
+or
+[post in Discussions](https://github.com/wishonia/.github/discussions)
 
 ## Projects
 - [FDAi](https://github.com/wishonia/FDAi) - Discovering the positive and negative effects of every food and drug in the world!
@@ -23,12 +28,9 @@ to improve the world and ensure everyone gets as much of what they want as physi
 
 ### 1. CLINICAL RESEARCH
 
-Say you have fibromyalgia.
-Your digital twin
-could cooperate with every other digital twin
-that has your disease to run clinical trials,
-research, and develop and fund new
-interventions.
+Say you have fibromyalgia. 
+You can record your symptom severity and all potential factors (diet, medications, etc) in your [Digital Twin Safe](https://safe.wishonia.ia). Then you can have your digital twin analyze all the data. It can use causal inference to determine the optimal daily values to minimize your pain. 
+Your digital twin could cooperate with every other digital twin that has your disease to combine the data into larger scale trials and publish the results in the AI FDA's [Clinipedia](https://clinipedia.wishonia.ai/).
 
 ### 2. CYBERSECURITY
 
