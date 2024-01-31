@@ -95,7 +95,3 @@ They provide instructions to the real world counterparts or AI agents and measur
 In Wishonia, we're not just imagining a better world; we're actively creating it. Our digital twins work in harmony to devise solutions that are not just idealistic but practical and actionable. They bring a level of insight and coordination that redefines what's possible, both virtually and in the real world.
 
 **[Help Us Build Wishonia](https://github.com/wishonia/positron/blob/main/docs/staff/paradise-engineer.md) | [Join the Conversation](https://github.com/wishonia/digital-twin-safe/discussions)**
-
----
-
-_Embark on a journey with Wishonia, where collective intelligence meets individual aspirations, creating a world that's not just better but smarter._
