@@ -17,7 +17,9 @@ As we sleep, they should work tirelessly to improve the world and ensure everyon
 
 ## 💬 Contact Us 
 Do you want this to exist?
+
 Code and documentation improvements are loved! 💖
+
 Contact us with any questions, suggestions or criticisms you can think of!
 
 Just create an [issue](https://github.com/wishonia/.github/issues) 
