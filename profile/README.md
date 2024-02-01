@@ -20,9 +20,7 @@ Do you want this to exist?
 
 Code and documentation improvements are loved! 💖
 
-Contact us with any questions, suggestions or criticisms you can think of!
-
-Just create an [issue](https://github.com/wishonia/.github/issues) 
+If you have any questions, suggestions or criticisms create an [issue](https://github.com/wishonia/.github/issues) 
 or
 [post in Discussions](https://github.com/wishonia/.github/discussions)
 
