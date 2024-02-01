@@ -16,9 +16,7 @@ Our digital twins should be AI agents that perfectly reflect our desires, values
 As we sleep, they should work tirelessly to improve the world and ensure everyone gets as much of what they want as physically possible.
 
 ## 💬 Contact Us 
-Do you want this to exist?
-
-Code and documentation improvements are loved! 💖
+Do you want this to exist? Code and documentation improvements are loved! 💖
 
 If you have any questions, suggestions or criticisms create an [issue](https://github.com/wishonia/.github/issues) 
 or
