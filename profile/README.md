@@ -2,13 +2,6 @@
 
 A virtual world of 8 billion digital twin AI agents working to maximize universal wish fulfillment. 
 
-## 💬 Contact Us 
-Please don't hesitate to contact us with any questions, suggestions or criticisms you can think of!
-
-Just create an [issue](https://github.com/wishonia/.github/issues) 
-or
-[post in Discussions](https://github.com/wishonia/.github/discussions)
-
 ## Projects
 - [FDAi](https://github.com/wishonia/FDAi) - Discovering the positive and negative effects of every food and drug in the world!
 - [Digital Twin Safe](https://github.com/wishonia/digital-twin-safe) - A safe place to store all your data and train your digital twin AI model.
@@ -20,9 +13,16 @@ where 8 billion of our **digital twin** AI agents work to **optimize decisions a
 
 Our digital twins should be AI agents that perfectly reflect our desires, values, resources, and knowledge. 
 
-As we sleep,
-they should work tirelessly
-to improve the world and ensure everyone gets as much of what they want as physically possible.
+As we sleep, they should work tirelessly to improve the world and ensure everyone gets as much of what they want as physically possible.
+
+## 💬 Contact Us 
+Do you want this to exist?
+Code and documentation improvements are loved! 💖
+Contact us with any questions, suggestions or criticisms you can think of!
+
+Just create an [issue](https://github.com/wishonia/.github/issues) 
+or
+[post in Discussions](https://github.com/wishonia/.github/discussions)
 
 ## Ways Our AI Counterparts Can Improve the World
 
